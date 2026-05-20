@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Andile 
+Full Stack Software Engineer — Johannesburg, South Africa
 
-<!--
-**andile593/andile593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack web applications with a focus on clean 
+architecture and real-world impact. Currently expanding 
+into NestJS, Next.js, and cloud infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+React · Next.js · TypeScript · HTML & CSS
+
+**Backend**
+Node.js · NestJS · Express.js · REST APIs
+
+**Database**
+PostgreSQL · MongoDB · Prisma · Supabase
+
+**Tools & Infrastructure**
+Git & GitHub · Docker · GitHub Actions · Railway · Vercel
+
+---
+
+## Connect
+[LinkedIn](https://linkedin.com/in/andile-mhlanga-370985316) · 
+[X](https://x.com/andile_reeds)
