@@ -3,20 +3,20 @@ Full Stack Software Engineer — Johannesburg, South Africa
 
 I build full-stack web applications with a focus on clean 
 architecture and real-world impact. Currently expanding 
-into NestJS, Next.js, and cloud infrastructure.
+into C# and .Net framework.
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-React · Next.js · TypeScript · HTML & CSS
+React · TypeScript · HTML & CSS
 
 **Backend**
-Node.js · NestJS · Express.js · REST APIs
+Node.js · C# · Express.js · REST APIs
 
 **Database**
-PostgreSQL · MongoDB · Prisma · Supabase
+PostgreSQL · MongoDB · Prisma · Supabase · SQL Server
 
 **Tools & Infrastructure**
 Git & GitHub · Docker · GitHub Actions · Railway · Vercel
